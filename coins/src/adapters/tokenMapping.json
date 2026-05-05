@@ -10430,7 +10430,7 @@
       "symbol": "FABS"
     },
     "0xe0c2e4f894d4cd33626e33b24582559f3156e1ab": {
-      "to": "coingecko#usd-coin",
+      "to": "coingecko#hyperlane-bridged-usdc-lukso",
       "decimals": 6,
       "symbol": "USDC"
     }
