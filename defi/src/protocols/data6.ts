@@ -1382,7 +1382,7 @@ const data6: Protocol[] = [
     name: "Phlox",
     address: null,
     symbol: "-",
-    url: " ", // pending to add url https://phlox.finance
+    url: "https://phlox.social",
     description: "Phlox is a LUKSO-focused DeFi app with a Uniswap V3-style DEX",
     chain: "LUKSO",
     logo: `${baseIconsUrl}/phlox.jpg`,
@@ -1394,6 +1394,7 @@ const data6: Protocol[] = [
     chains: ["LUKSO"],
     module: "phlox/index.js",
     twitter: null,
+    github: ["phlox-labs"],
     listedAt: 1777517385
   },
   {
