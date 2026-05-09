@@ -1393,7 +1393,7 @@ const data6: Protocol[] = [
     forkedFromIds: ["2198"],
     chains: ["LUKSO"],
     module: "phlox/index.js",
-    twitter: null,
+    twitter: "phloxsocial",
     github: ["phlox-labs"],
     listedAt: 1777517385
   },
